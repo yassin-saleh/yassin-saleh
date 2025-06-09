@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 🎯 I'm **Yassin Ahmed**, a passionate **Data Analyst** who transforms raw data into valuable business insights.  
-💼 Skilled in **SQL Server**, **Python**, **Excel**, and **Power BI**  
+💼 Skilled in **SQL**, **Python**, **Excel**, and **Power BI**  
 🚀 Always learning and exploring new ways to visualize and interpret data!
 
 ---
