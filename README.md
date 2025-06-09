@@ -1,55 +1,88 @@
 <h1 align="center">Hi there, I'm Yassin Ahmed 👋</h1>
 
 <p align="center">
-  🎯 Data Analyst | 📊 SQL | 🐍 Python | 📈 Excel | 📊 Power BI  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00B2FF&center=true&vCenter=true&width=435&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Decisions+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Hello! I'm **Yassin Ahmed**, a passionate **Data Analyst** who loves turning data into meaningful insights.  
-I enjoy using tools like **SQL**, **Python**, **Excel**, and **Power BI** to analyze data, solve problems, and drive decisions.
+🎯 I'm **Yassin Ahmed**, a passionate **Data Analyst** who transforms raw data into valuable business insights.  
+💼 Skilled in **SQL**, **Python**, **Excel**, and **Power BI**  
+🚀 Always learning and exploring new ways to visualize and interpret data!
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tools & Technologies
 
-- 🐍 Python (Pandas, NumPy, Matplotlib)
-- 🧮 SQL (PostgreSQL, MySQL)
-- 📊 Power BI & Excel
-- 📚 Data Cleaning & Analysis
-- 📈 Data Visualization & Dashboards
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-Here are some of my favorite data projects:
+<table>
+  <tr>
+    <td><a href="https://github.com/yassin-saleh/SQL-Project-Pizza-Case-Study">
+      <img src="https://img.icons8.com/fluency/48/pizza.png" width="20"/> <b>Pizza Sales SQL Case Study</b></a><br/>
+      🍕 SQL-based analysis of pizza sales performance and trends.
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yassin-saleh/Spotify-Data-Analysis-using-SQL">
+      <img src="https://img.icons8.com/color/48/spotify--v1.png" width="20"/> <b>Spotify Data Analysis</b></a><br/>
+      🎵 Discovering music trends and stats using SQL queries.
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yassin-saleh/Udemy-Courses-Analysis">
+      <img src="https://img.icons8.com/color/48/udemy.png" width="20"/> <b>Udemy Courses Analysis</b></a><br/>
+      📚 Deep dive into online courses data using Excel and charts.
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yassin-saleh/Blinkit-Analysis">
+      <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-dashboard-digital-marketing-flatart-icons-outline-flatarticons.png" width="20"/> <b>Blinkit Data Analysis</b></a><br/>
+      📦 Customer and product insights through data exploration.
+    </td>
+  </tr>
+</table>
 
-🔸 [**Pizza Sales SQL Case Study** 🍕](https://github.com/yassin-saleh/SQL-Project-Pizza-Case-Study)  
-Analyzed pizza sales data using SQL — generated insights on performance, orders, and top items.
+---
 
-🔸 [**Spotify Data Analysis using SQL 🎵**](https://github.com/yassin-saleh/Spotify-Data-Analysis-using-SQL)  
-Explored Spotify track dataset using SQL to find trends in popularity, genre, and duration.
+## 📈 GitHub Stats
 
-🔸 [**Udemy Courses Analysis 📚**](https://github.com/yassin-saleh/Udemy-Courses-Analysis)  
-Data exploration of Udemy online courses using Excel and visualization techniques.
-
-🔸 [**Blinkit Data Analysis 📦**](https://github.com/yassin-saleh/Blinkit-Analysis)  
-Explored Blinkit data to uncover product trends, sales patterns, and consumer behavior.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yassin-saleh&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassin-saleh&theme=tokyonight" width="49%"/>
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yassin-ahmed-031a37264)
-- 💻 [GitHub](https://github.com/yassin-saleh)
+<p>
+  <a href="https://www.linkedin.com/in/yassin-ahmed-031a37264" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/yassin-saleh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<p align="center">Thanks for visiting! 😊 Feel free to check out my projects and connect!</p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yassin-saleh&style=flat-square&color=blue" alt="GitHub Profile Views" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
+  <br/><br/>
+  <b>Thanks for stopping by! Let's analyze the world, one dataset at a time.</b> 🚀
 </p>
