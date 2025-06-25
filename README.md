@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yassin Ahmed 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00B2FF&center=true&vCenter=true&width=435&lines=Data+Analyst;SQL+Server+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Decisions+%F0%9F%94%A5" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&duration=2500&pause=1000&color=00B2FF&center=true&vCenter=true&width=435&lines=Data+Analyst;SQL+Server+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Decisions+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
