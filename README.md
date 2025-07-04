@@ -26,70 +26,17 @@
 
 ---
 
-## 📂 Featured Projects
+<tr> 
+  <td> 
+    <a href="https://github.com/yassin-saleh/Sales-Analysis"> 
+      <img src="https://img.icons8.com/color/48/ms-excel.png" width="20"/> 
+      <b>Sales Analysis Dashboard (Excel)</b> 
+    </a><br/> 
+    📊 Interactive Excel dashboard with KPIs, descriptive statistics, T-tests, and VBA-powered form.  
+    🛠️ <b>Tools:</b> Microsoft Excel, VBA, Statistical Analysis
+  </td> 
+</tr>
 
-<table> 
-  <tr> 
-    <td> 
-      <a href="https://github.com/yassin-saleh/Walmart_SQL_Python"> 
-        <img src="https://img.icons8.com/color/48/walmart.png" width="20"/> 
-        <b>Walmart SQL + Python Project</b> 
-      </a><br/> 
-      🛒 End-to-end data analysis using Python and SQL Server. 
-      🛠️ <b>Tools:</b> Python, SQL Server 
-    </td> 
-  </tr>
-  <tr> 
-    <td> 
-      <a href="https://github.com/yassin-saleh/SQL-Project-Pizza-Case-Study"> 
-        <img src="https://img.icons8.com/fluency/48/pizza.png" width="20"/> 
-        <b>Pizza Sales SQL Case Study</b> 
-      </a><br/> 
-      🍕 Analyzing pizza sales performance and trends. 
-      🛠️ <b>Tools:</b> SQL Server 
-    </td> 
-  </tr> 
-  <tr> 
-    <td> 
-      <a href="https://github.com/yassin-saleh/Spotify-Data-Analysis-using-SQL"> 
-        <img src="https://img.icons8.com/color/48/spotify--v1.png" width="20"/> 
-        <b>Spotify Data Analysis</b> 
-      </a><br/> 
-      🎵 Discovering music trends and user behavior using queries. 
-      🛠️ <b>Tools:</b> SQL Server 
-    </td> 
-  </tr> 
-  <tr> 
-    <td> 
-      <a href="https://github.com/yassin-saleh/Udemy-Courses-Analysis"> 
-        <img src="https://img.icons8.com/color/48/udemy.png" width="20"/> 
-        <b>Udemy Courses Analysis</b> 
-      </a><br/> 
-      📚 In-depth analysis of online courses and trends. 
-      🛠️ <b>Tools:</b> Python (Pandas, Seaborn, Matplotlib) 
-    </td> 
-  </tr> 
-  <tr> 
-    <td> 
-      <a href="https://github.com/yassin-saleh/Blinkit-Analysis"> 
-        <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-dashboard-digital-marketing-flatart-icons-outline-flatarticons.png" width="20"/> 
-        <b>Blinkit Data Analysis</b> 
-      </a><br/> 
-      📦 Exploring customer and product insights. 
-      🛠️ <b>Tools:</b> SQL Server, Power BI 
-    </td> 
-  </tr> 
-  <tr> 
-    <td> 
-      <a href="https://github.com/yassin-saleh/HealthCare-Analysis"> 
-        <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/heart-health--v1.png" width="20"/> 
-        <b>HealthCare Data Analysis</b> 
-      </a><br/> 
-      🏥 Analyzing patient data to uncover healthcare insights and trends. 
-      🛠️ <b>Tools:</b> Python (Pandas, Seaborn, Matplotlib) 
-    </td> 
-  </tr> 
-</table>
 
 
 ## 📈 GitHub Stats
