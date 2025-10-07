@@ -99,7 +99,20 @@
       🛠️ <b>Tools:</b> Python (Pandas, Seaborn, Matplotlib) 
     </td> 
   </tr> 
+  <tr> 
+    <td> 
+      <a href="https://github.com/yassin-saleh/Ola-Data-Analytics-Project"> 
+        <img src="https://img.icons8.com/emoji/48/taxi-emoji.png" width="20"/> 
+        <b>OLA Data Analytics Project 🚖</b> 
+      </a><br/> 
+      📅 **End-to-end Data Analytics Project** analyzing 1 lakh+ OLA ride records for Bengaluru city.  
+      📊 Built dashboards in **Power BI** showing Booking Trends, Cancellation Reasons, Top Customers, Revenue by Payment Methods, and more.  
+      🧮 SQL queries to answer key business questions like ride volume, cancellation analysis, and revenue breakdown.  
+      🛠️ <b>Tools:</b> SQL Server, Excel, Power BI, Python
+    </td> 
+  </tr> 
 </table>
+
 
 
 
